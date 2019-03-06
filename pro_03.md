@@ -1,0 +1,3 @@
+1. sharedPreference 保存一个boolean值到本机文件，保存路径在data文件夹下的data文件夹下面的应用包名里面的shared_prefs文件夹下。
+
+2. 创建一个带有侧滑菜单的Activity。navigationDrawerActivity。
